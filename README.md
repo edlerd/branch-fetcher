@@ -4,7 +4,7 @@
 
 ## Usage
 1. Clone the repo
-2. Run the script and pass the PR string as argument `/path/to/fetch-pr.sh remote:branch`
+2. Run the script inside of a git repository and pass the PR string as argument `/path/to/fetch-pr.sh remote:branch`
 
 ## Features
 
@@ -17,3 +17,4 @@
 ## Requirements
 
 - `git` (v2.0+)
+- The remote needs to be set up locally
